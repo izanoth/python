@@ -7,19 +7,6 @@ import os
 from typing import Optional
 import re
 
-"""len() – It is used to count number of elements(items/characters) of iterables like list, tuple, string, dictionary etc.
-str() – It is used to transform data value(integers, floats, list) into string.
-abspath() – It returns the absolute path of the file/directory name passed as an argument.
-enumerate() – Returns an enumerate object for the passed iterable that can be used to iterate over the items of iterable with an access to their indexes.
-list() – It is used to create a list by using an existing iterable(list, tuple, dictionary, set).
-listdir() – It is used to list the directory contents. The path of directory is passed as an argument.
-isfile() – It checks whether the passed parameter denotes the path to a file. If yes then returns True otherwise False
-isdir() – It checks whether the passed parameter denotes the path to a directory. If yes then returns True otherwise False
-append() – It is used to append items on list."""
-
-"""def research(param):
-    pass"""
-
 root = tk.Tk()
 root.geometry("800x600")
 root.fontePadrao = ("Arial", "10")
