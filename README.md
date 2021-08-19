@@ -1,3 +1,3 @@
 # python_findstrings
-Locate lines easily in txt files from keywords.
+Fetch lines easily from all txt files by keywords.
 Experimental work to test proficience level.
