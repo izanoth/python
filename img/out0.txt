@@ -1,0 +1,81 @@
+A.33 Tem sido dito ironicamente que o inico exercicio que
+algumas pessoas fazem € levar um garfo a boca. Qual é a energia
+gasta para levantar um garfo cheio, de massa total 40,0 g, até a
+altura de 0,50 m, 30 vezes durante uma refeicdo?
+
+A.34 Calcule a energia liberada quando um elétron é trazido do
+infinite até a distancia de 53 pm de um proton, (Esta é a distancia
+mais provavel de se encontrar um elétron em um dtomo de
+hidrogenio.) A energia liberada quando um clétron ¢ um proton
+formam um dtomo de hidrogénio é 13,6 clétrons-volt (eV; 1 eV =
+1,602 x 10° J). Explique a diferenga.
+
+A.35 A expressio E.= migh aplica-se somente nas vizinhangas da
+
+B.1 Atomos 15
+
+E = —Gmm/R. Escreva R = R,+ 6,em que R, é 0 raio da Ter-
+ra,¢ mostre que quando } << R, essa expressio geral se reduz ao
+caso especial ¢ encontre uma cxpressao para g. Voce val precisar
+usar acxpansdo (1 +x) '=1—x+---,
+
+A.36 A expressdo para a energia potencial de Coulomb é muito
+semelhante 4 expressao da energia potencial gravitacional geral,
+dada no Exercicio A.35. Sera que existe uma expressio semelhan-
+tea E, = mgh, a mudanga de energia potencial quando um elé-
+tron muito afastado de um préton se aproxima até uma distincia
+b pequena? Encontre a expressdo da forma E,= egh, com uma
+expressao apropriada para g, usando o mesmo procedimento do
+
+superficie da Terra. A expressdo geral para a energia porencial de Exercicio A.35.
+
+Uma massa rt a distancia R do centro da Terra (de massa rt,) ¢
+
+| B | ELEMENTOS E ATOMOS B.1 Atomos
+B.2 Modelo nuclear
+A ciéncia é a busca da simplicidade. Embora a complexidade do mundo parega ilimitada, gy isétopos
+ela tem origem na simplicidade fundamental que a ciéncia busca descrever. A contribuiga0 gg Gpoanizacdo d
+nye : p 4 Organizacao dos
+da quimica para essa busca é mostrar como tudo que nos cerca - montanhas, arvores, pes- —aajementios
+s0as, Computadores, cérebros, concreto, oceanos — é, de fato, constituido por um punhado
+de entidades simples.
+Os gregos antigos tinham a mesma ideia. Eles pensavam que havia quatro elementos
+— terra, ar, fogo e 4gua — que podiam produzir todas as outras substancias quando combi-
+nados nas proporgdes corretas. Seu conceito de elemento é semelhante ao nosso, mas,sa- © Apéndice 2D lista os nomes ¢
+bemos agora, com base em experimentos, que existem na realidade mais de 100 elementos os simbolos quimicos de todos
+que — em varias combinagdes — compodem toda a matéria da Terra (Fig. B.1). os elementos ¢ di a origem dos
+seus nomes.
+© nome dfomo vem do grego c
+significa “nao divisivel”.
+
+AIGURA 8.1 Amostras de elementos
+comuns. Em sentido hordrio, a partir
+
+do bromo, liquido de cor marrom-
+-avermelhada, estao 0 mercurio, liquido
+prateado e os sdélidos iodo, cadmio,
+fésforo vermelho e cobre.
+
+B.1 Atomos
+
+Os gregos perguntavam-se o que aconteceria se eles dividissem a matéria em pedacos cada
+vez menores. Haveria um ponto no qual teriam de parar, porque os pedacos nao teriam
+mais as mesmas propriedades do conjunto, ou eles poderiam continuar indefinidamente?
+Sabemos hoje que existe um ponto em que temos de parar. Em outras palavras, a matéria
+é feita de particulas inimaginavelmente pequenas. A menor particula possivel de um ele-
+mento é chamada de atomo. A historia do desenvolvimento do modelo moderno do atomo
+€ uma excelente ilustracdo de como os modelos cientificos sao construidos ¢ revisados e¢
+continua no Capitulo 1.
+
+© primeiro argumento convincente em favor dos atomos foi apresentado, em 1807,
+pelo professor de escola elementar e quimico inglés John Dalton (Fig. B.2). Ele mediu mui-
+tas veres a razao entre as massas dos elementos que se combinam para formar as substan-
+cias a que chamamos de “compostos” (veja a Secdo C) e verificou que as razOes entre as
+Mmassas mostravam uma tendéncia. Ele encontrou, por exemplo, 8 g de oxigenio para cada
+1 g de hidrogénio em todas as amostras de agua que estudou, mas que em outro composto
+
+FIGURA B.2 John Dalton (1766-
+1844), o professor inglés que
+USOU medidas Expermentais para
+sustentar que a materia é formada
+por dtomos.

@@ -1,0 +1,64 @@
+import sqlite3
+import tkinter as tk
+from tkinter import ttk
+
+class GerenciadorSQLiteApp:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("Gerenciador SQLite")
+
+        # Conectar ao banco de dados (ou criar se não existir)
+        self.conexao = sqlite3.connect('database.db')
+        self.criar_tabela()
+
+        # Interface Gráfica
+        self.frame = ttk.Frame(root, padding="10")
+        self.frame.grid(column=0, row=0, sticky=(tk.W, tk.E, tk.N, tk.S))
+        self.criar_interface()
+
+    def criar_tabela(self):
+        cursor = self.conexao.cursor()
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS dados (
+                id INTEGER PRIMARY KEY,
+                data TEXT,
+                onde TEXT,
+                conteudo TEXT
+            )
+        ''')
+        self.conexao.commit()
+
+    def criar_interface(self):
+        # Widgets
+        ttk.Label(self.frame, text="Data:").grid(column=0, row=0, sticky=tk.W)
+        self.data_entry = ttk.Entry(self.frame, width=20)
+        self.data_entry.grid(column=1, row=0, sticky=tk.W)
+
+        ttk.Label(self.frame, text="Onde:").grid(column=0, row=1, sticky=tk.W)
+        self.onde_entry = ttk.Entry(self.frame, width=20)
+        self.onde_entry.grid(column=1, row=1, sticky=tk.W)
+
+        ttk.Label(self.frame, text="Conteúdo:").grid(column=0, row=2, sticky=tk.W)
+        self.conteudo_entry = ttk.Entry(self.frame, width=20)
+        self.conteudo_entry.grid(column=1, row=2, sticky=tk.W)
+
+        ttk.Button(self.frame, text="Adicionar Dado", command=self.adicionar_dado).grid(column=0, row=3, columnspan=2, pady=10)
+
+    def adicionar_dado(self):
+        data = self.data_entry.get()
+        onde = self.onde_entry.get()
+        conteudo = self.conteudo_entry.get()
+
+        cursor = self.conexao.cursor()
+        cursor.execute("INSERT INTO dados (data, onde, conteudo) VALUES (?, ?, ?)", (data, onde, conteudo))
+        self.conexao.commit()
+
+        # Limpar os campos após adicionar um dado
+        self.data_entry.delete(0, tk.END)
+        self.onde_entry.delete(0, tk.END)
+        self.conteudo_entry.delete(0, tk.END)
+
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = GerenciadorSQLiteApp(root)
+    root.mainloop()

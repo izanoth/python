@@ -1,0 +1,103 @@
+Exercicios F21
+
+com este texto e encontrar um novo elemento, é uma boa ideia ir busca-lo na Tabela Perid-
+dica, identificar seus vizinhos e tentar predizer suas propriedades.
+
+A Tabela Periédica é um arranjo dos elementos que reflete suas relagdes de familia.
+Os membros do mesmo grupo normalmente mostram a mesma tendéncia nas proprie-
+
+dades.
+
+CONHECIMENTOS QUE VOCE DEVE DOMINAR
+
+_) 1 Deserever a estrutura de um dtoma.
+
+—) 2 Encontrar o niimero de dtomos em uma dada massa de um
+elemento (Exemplo B.1).
+
+B.1 A massa de um dtomo de berilio é 1,50 x 10° kp. Quan-
+tos 4tomos de berilio existem em 0,210 g de um filme de berilio
+usado como janela de tubos de rapos X?
+
+B.2 A massa de um dtomo de flior é 3,16 * 10 “ kg. Quantos
+dtomos de fldor estao presentes em um tanque de 3,50 L de gis
+flier? A densidade do gis fldor no tanque é 0,777 g-L
+
+B.3 Dé o nimero de prétons, néutrons ¢ elétrons de um atomo de
+(a) boro-11; (b) '"B; (c) fasforo-31; (d) *"U.
+
+B.4 Déo nidmero de prétons, néutrons ¢ elétrons de um dtomo de
+(a) eritio, "H; (b) “Ga; (c) selénio-79; (d) “Cm.
+
+B.5 Idennfique o isétopo que tem dtomos com (a) 117 néutrons,
+77 prétons ¢ 77 elétrons; (b) 12 néutrons, 10 prétons ¢ 10 elé-
+trons; (c) 28 néutrons, 23 protons ¢ 23 clétrons.
+
+B.6 Identifique o isétopo que tem dtomos com (a) 106 néutrons,
+76 protons ¢ 76 clétrons; (b) 30 néutrons, 28 protons ¢ 28 clé-
+trons; (c) 21 néurrons, 20 prétons ¢ 20 clétrons.,
+
+B.7 Complete a seguinte tabela:
+
+B.9 (a) Que caracteristicas tm em comum os dtomos de argé-
+nio-40, potassio-40 ¢ calcio-40? (b) Em que eles sao diferentes?
+(Pense nos nimeros ¢ pos de particulas subarGmicas.)
+
+B.10 (a) Que caracteristicas tém em comum os dtomos de man-
+ganés-455, ferro-56 ¢ niquel-58? (b) Em que eles sdo diferentes?
+(Pense nos niimeros de cada tipo de particula subatémica.)
+
+_) 3 Encontrar o nimero de néutrons, protons ¢ elétrons de um
+iotopo (Teste B.2).
+
+—) 4 Descrever a organizagao da Tabela Periddica ¢ as caracteris-
+ticas dos elementos em diferentes regides da Tabela.
+
+B.11 Determine a fracio da massa total de um dtomo de “Fe que
+é decorrente dos (a) néutroms; (b) prétons; (c) elétrons. (d) Qual é
+a massa de prétons de um automdével de 1,000 t? Suponha que a
+massa total do veiculo é devido ao “Fe.
+
+B.12 (a) Determine o nimero total de protons, néutrons ¢
+elétrons de uma molécula de tetrafluoreto de carbona, CF,,
+supondo gue todos os dtomos si0 dos isétopos mais euthvels
+
+dos elementos. (b) Qual é a massa total de prétons, néutrons ¢
+elétrons de uma molécula de tetrafluoreto de carbono? Calcule as
+B.13 Nomeie os elementos (a) Sc; (b) Sr; (c) 5; (d) Sb. Verifique
+seus nuimeros de grupo na Tabela Periddica. Idennfique cada um
+como metal, ndo metal ou metaloide.
+
+B.14 Nomeie os elementos (a) P (b) Pr; (c) Po; (d) Pd. Verifique
+seus numeros de grupo na Tabela Periddica. Identifique cada um
+como metal, ndo metal ou metaloide.
+
+B.15 Escreva o simbolo do (a) estroncio; (b) xendnio; (c) silicio.
+Classifique cada um deles como metal, ndo metal ou metaloide.
+B.16 Escreva o simbolo do (a) tilio; (b) eurépio; (c) cadmio.
+Classifigue cada um deles como metal, ndo metal ou metaloide.
+B.17 Liste os nomes, os simbolos ¢ os mimeros atémicos dos
+halogenios. Idennfigue o estado fisico normal de cada um.
+
+B.18 Liste os nomes, os simbolos ¢ o5 niimeros atémicos dos
+metais alcalinos. Caracterize suas reagdes com a dgua ¢ descreva a
+tendéncia de seus pontos de fusdo,
+
+B.19 Identifique na Tabela Periddica o bloco a que pertencem os
+seguintes elementos: (a) zirconia, (b) As, (c) Ta, (d) bario, (e) Si, (£)
+cobalto,
+
+B.20 Descreva trés propriedades fisicas tipicas dos (a) metais; (b)
+nao metais.
+
+B.21 Identifique o elemento que tem d4tomos com 113 néutrons
+
+¢ numero de massa 200 ¢ determine 0 numero de seu grupo na
+Tabela Periddica. O elemento é um metal, um nado metal ou um
+metaloide?
+
+B.22 Identifique o elemento que tem dtomos com 74 néutrons
+
+¢ niimero de massa 127 ¢ determine o nimero de seu grupo na
+Tabela Periédica. O elemento é um metal, um nao metal ou um
+metaloide?

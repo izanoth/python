@@ -1,0 +1,91 @@
+F16é Fundamentos
+
+FIGURA B.3 Atomos individuais
+podem ser vistos como protube-
+rancias sobre a superficie de um
+sOlido a partir de uma técnica
+chamada microscopia de varre-
+dura por tunelamento (MVT). Esta
+imagem mostra quanta informagao
+pode ser armazenada nos atomos.
+As esferas amarelas so dtomos de
+silicio distribuidos em uma super-
+ficie formada por atomos de ouro
+@ silicio em um arranjo que pode
+ser lido por um microsoépio MVT,
+Estas pequenas filas podem levar
+a um meio de armazenamento de
+densidade muito alta.
+
+= URA 6.4 Imagine uma mosca
+no centro deste estadio: seria esse
+0 tamanho relativo do nucleo de
+um dtomo se o dtomo fosse am-
+pliado até o tamanho do estadio.
+
+dos dois elementos (peréxido de hidrogénio), havia 16 g de oxigénio para cada 1 g de hi-
+drogénio. Dados desse tipo levaram Dalton a desenvolver sua hipétese atémica:
+
+1 Todos os 4tomos de um dado elemento sdo idénticos.
+
+2 Os dtomos de elementos diferentes tem massas diferentes.
+
+3 Um composto utiliza uma combinagao especifica de atomos de mais de um elemento.
+
+4 Em uma reacdo quimica, os 4Atomos nao sao criados nem destruidos, porém trocam de
+parceiros para produzir novas substancias.
+
+Como veremos na Secdo B.3, a primeira suposicao de Dalton teve de ser modificada porque
+hoje sabemos que os 4tomos de um elemento nao sao idénticos porque podem ter massa
+ligeiramente diferentes.
+
+Atualmente, a instrumentagao de que dispomos fornece evidéncias muito mais diretas
+da existéncia dos 4tomos do que Dalton dispunha (Fig. B.3). Nao existem mais dividas de
+que os d4tomos existem e que eles sao as unidades que formam os elementos. Na verdade, os
+quimicos usam a existéncia dos atomos para definir o elemento: um elemento ¢ uma subs-
+tancia composta por um Unico tipo de dtomo. Até 2008, 112 elementos haviam sido des-
+cobertos ou criados, mas em alguns casos somente em quantidades muito pequenas. Assim,
+quando o elemento 110 foi fabricado, somente dois 4tomos do elemento foram produzidos
+¢, mesmo assim, cles duraram uma pequena fracao de segundo antes de se desintegrar.
+
+Toda a matéria é feita de varias combinagoes de formas simples da matéria, chama-
+das elementos quimicos. Um elemento é uma substancia formada por um unico tipo
+de dtonto.
+
+B.2 Modelo nuclear
+
+Desenvolveremos o modelo moderno de um atomo no Capitulo 1. No momento, tudo que
+precisamos saber é que, de acordo com o modelo nuclear corrente, um atomo é formado
+por um niicleo com carga positiva, que é responsavel por quase toda a sua massa, cercado
+por elétrons com carga negativa (representados pore ). Em comparacao com o tamanho
+do nicleo (diametro de cerca de 10 “ m), o espago ocupado pelos elétrons é enorme (dia-
+metro de cerca de 10°*, cem mil vezes maior). Se o niicleo de um dtomo tivesse o tamanho
+de uma mosca no centro de um campo de beisebol, entao o espaco ocupado pelos elétrons
+vizinhos seria aproximadamente igual ao tamanho do estadio inteiro (Fig. B.4).
+
+A carga positiva do nucleo cancela exatamente a carga negativa dos elétrons circun-
+dantes. Em consequéncia, o atomo é eletricamente neutro (sem carga). Como cada elétron
+tem uma carga negativa, para cada um deles deve existir uma particula com uma carga
+positiva dentro do nucleo. Essas particulas com carga positiva s30 chamadas de prétons
+(representados por p) e suas propriedades estao listadas na Tabela B.1. Um préton é prati-
+camente 2 mil vezes mais pesado do que um elétron.
+
+O nimero de prétons do nicleo atomico de um elemento é¢ chamado de nimero ato-
+mico, Z, do elemento. Assim, por exemplo, para o hidrogénio, Z = 1, 0 que nos diz que o
+nucleo de um atomo de hidrogénio tem um préton. O hélio tem Z = 2; logo, seu nucleo
+contém dois protons. Henry Moseley, um jovem cientista britanico, foi o primeiro a determi-
+nar nlimeros atOmicos com precisdo, pouco tempo antes de ser morto em acao na Primeira
+Guerra Mundial. Moseley sabia que, quando os elementos sao bombardeados com elétrons
+rapidos, eles emitem raios X. Ele descobriu que as propriedades dos raios X emitidos por um
+elemento dependem de seu niimero atGmico, e estudando os raios X de muitos elementos foi
+capaz de determinar seus valores de 7. Desde entao, os cientistas determinaram o nimero
+atomico de todos os elementos conhecidos (veja a lista de elementos no final do livro).
+
+Os avancos tecnolégicos da eletrGnica, no inicio do século XX, levaram a invencao
+do espectr6metro de massas, um instrumento que permite a determinacao da massa de
+um dtomo (Fig. B.5). Os espectr6metros de massas serao descritos com mais detalhes na
+Técnica Principal 6, no fim do Capitulo 18. A espectrometria de massas ja foi usada na
+determinacao das massas dos atomos de todos os elementos. Sabemos agora, por exemplo,
+que a massa de um dtomo de hidrogénio é 1,67 * 10°*" kg ¢ que a de um dtomo de car-
+bono é 1,99 x 10°** kg. As massas dos dtomos mais pesados nao passam de § x 10°“ ke,
+aproximadamente. Sabendo a massa de um d4tomo, podemos determinar o niimero desses
